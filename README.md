@@ -6,7 +6,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-## <img src="[https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif](https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif)" width="50px" height="50px"></img> about me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px"></img> about me
 I'm system engineering student, currently expanding my knowledge in every part of development (front-end, back-end), specially in front-end development. I love to learn and built something new!
 - 🌱 I’m currently learning ...
 - Unreal Engine
