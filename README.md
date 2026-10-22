@@ -139,10 +139,8 @@ I'm system engineering student, currently expanding my knowledge in every part o
     </a>
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Contact me Via
-<p align="center">
-  <a href="fuentes.business023@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect with me 
 
+<a href = 'www.linkedin.com/in/gustavo-1-0373822b0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/Gusi_Gus0810'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  
+<a href = 'https://www.github.com/Gusi-Gus'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
